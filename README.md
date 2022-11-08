@@ -9,7 +9,9 @@
 - Afirmar y conectar los conceptos aprendidos en la carrera.
 - Aprender mejores prácticas.
 - Aprender y practicar el workflow de GIT.
-- Investigaciín y puesta en práctica de nuevas tecnologías que no se enseñan en el bootcamp.
+- Investigación y puesta en práctica de nuevas tecnologías que no se enseñan en el bootcamp.
+- Adquirir experiencia en la construcción de este proyecto trabajando en equipo, coordinando tareas, tiempos, utilizando metodología Scrum.
+- Sobreponerse al reto de integrar un grupo de personas totalmente desconocidas, con las cuales se deberán compartir extensas horas y entablar relaciones eficaces.
 
 ## Horarios y Fechas
 
