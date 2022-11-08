@@ -62,6 +62,18 @@ La idea general es crear una aplicación en la cual se pueda ver información de
 - [ ] Express
 - [ ] Sequelize - Postgres
 
+
+#### Visualizar el proyecto
+
+- Clonar el repositorio
+- Abrirlo en VSC
+- Abrir 2 terminales y ubicarse en las subcarpetas clien y api respectivamente
+- En ambas terminales ejecutar npm install
+- Levantar los servidores utilizando el comando npm start en ambas terminales
+- Abrir el navegador en http://localhost:3000
+
+
+
 ![web](https://user-images.githubusercontent.com/88909356/200628592-8fbc0ea2-1545-4544-82a9-5460fa10c811.png)
 
 ![web1](https://user-images.githubusercontent.com/88909356/200629361-f38037f3-8114-4134-8384-096047ac07d6.png)
