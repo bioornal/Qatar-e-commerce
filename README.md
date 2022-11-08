@@ -61,3 +61,11 @@ La idea general es crear una aplicación en la cual se pueda ver información de
 - [ ] Sequelize - Postgres
 
 ![web](https://user-images.githubusercontent.com/88909356/200628592-8fbc0ea2-1545-4544-82a9-5460fa10c811.png)
+
+![web1](https://user-images.githubusercontent.com/88909356/200629361-f38037f3-8114-4134-8384-096047ac07d6.png)
+
+![web2](https://user-images.githubusercontent.com/88909356/200629425-bad115e4-de09-4c04-b5b1-11fe4320c2c2.png)
+
+![web3](https://user-images.githubusercontent.com/88909356/200629466-3055cebe-e344-4d0b-a924-95795612c0c8.png)
+
+![web4](https://user-images.githubusercontent.com/88909356/200629497-15f42282-fe96-4d3c-9e44-4c43fd3a906d.png)
