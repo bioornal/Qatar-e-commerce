@@ -60,3 +60,4 @@ La idea general es crear una aplicación en la cual se pueda ver información de
 - [ ] Express
 - [ ] Sequelize - Postgres
 
+![web](https://user-images.githubusercontent.com/88909356/200628592-8fbc0ea2-1545-4544-82a9-5460fa10c811.png)
