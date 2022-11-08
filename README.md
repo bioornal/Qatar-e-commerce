@@ -1,1 +1,1 @@
-Website e-commerce with React - Redux - Node - PostgreSQL
+<h1>Individual Project - Henry Countries</h1>
